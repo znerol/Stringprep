@@ -16,7 +16,7 @@ Requierements
 Example
 -------
 
-'''
+```php
 <?php
 require "vendor/autoload.php";
 
@@ -82,7 +82,7 @@ try {
 catch (ProfileException $e) {
     print("* Spaces prohibited\n");
 }
-'''
+```
 
 License
 -------
