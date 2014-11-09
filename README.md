@@ -87,7 +87,7 @@ catch (ProfileException $e) {
 License
 -------
 
-This software is released under the GNU General Public License v3.0
+This software is released under the GNU Lesser General Public License, version 3.0 (LGPL-3.0)
 
 Acknowledgment
 --------------
